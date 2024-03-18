@@ -1,0 +1,11 @@
+node_modules
+Dev
+Developer Guide
+.package-lock.json
+
+# Config
+.eslintrc.json
+.prettierrc
+.vscode
+*.env
+.vercel

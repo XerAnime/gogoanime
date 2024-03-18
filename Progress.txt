@@ -1,0 +1,12 @@
+Completed:
+1. Added cdn_url
+2. API-endpoints
+  - 1. Added: Recent Release
+  - 2. Added: Popular Ongoing Release
+  - 3. Added: Scraping Video Src
+
+TODO:
+Soon Adding cdnUrl**
+1. set api endpoints
+2. Error Controllers
+3. Refactor
